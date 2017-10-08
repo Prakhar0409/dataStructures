@@ -1,5 +1,8 @@
 # Data Structures
 
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 This repository contains the various progams on Data Structures and Algorithms using C and C++.
 
 Further, it contains the programs which are commonly asked in the technical interviews of companies like Microsoft, Amazon, Flipkart, DE Shaw etc.
@@ -19,3 +22,7 @@ A linked lists are simple data structures where each object links to the object 
 ## Authors
 
 * **Ashish Krishan** - *Initial work*
+
+## Licence
+
+[![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
